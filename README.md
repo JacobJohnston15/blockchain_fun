@@ -3,7 +3,7 @@ The Arkansas School for Mathematics, Sciences and the Arts
 Author: Jacob Johnston
 Advisor: Denise Gregory 
 Program Help / Guidance: Casey Kinsey
-==========================================================
+
 
 The purpose of this project is to detmerine the percentage of gambling transactions that occur in the blockchain of
 Bitcoin. 
